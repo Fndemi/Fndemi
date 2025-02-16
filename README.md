@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Fndemi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, My name is Florence Ndemi
+#### Blockchain& Web3 Dev
+![Blockchain& Web3 Dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!---
-Fndemi/Fndemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 About Me
+🚀 Smart Contract Developer | Blockchain Enthusiast | Security Engineer
+
+Hi there! 👋 I'm Florence, a passionate blockchain developer with a strong background in smart contract development, decentralized applications. I thrive at the intersection of Ethereum and Foundry while actively contributing to the Web3 ecosystem.
+
+💡 What I Do:
+
+🛠 Smart Contract Development (Solidity, Foundry, Hardhat)
+🏗 Building dApps with Vue.js & Next.js
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
