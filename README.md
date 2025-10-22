@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Florence  
 🚀 Smart Contract Developer | Blockchain Enthusiast | Security Engineer  
 
-🔗 Passionate about **decentralized systems, smart contract security, and blockchain adoption.**  
-🎯 Focused on **Web3, Ethereum, Lisk, and Layer 2 solutions.**  
+🔗 Passionate about **decentralized systems, software development**  
+🎯 Focused on **Web3,Backend Engineer**  
 🌍 Building impactful projects in **decentralized governance, finance, and secure smart contracts.**  
 
 ---
@@ -15,8 +15,4 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![IPFS](https://img.shields.io/badge/IPFS-%2300086C.svg?style=for-the-badge&logo=ipfs&logoColor=white)
 
----
-## 🏗 Notable Projects  
-- 🔹 **[Charity Donation Platform](#)** – Trustless fundraising using **Foundry & Solidity**  
 
----
