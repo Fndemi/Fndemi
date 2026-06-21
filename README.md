@@ -32,27 +32,7 @@
 ![Anthropic](https://img.shields.io/badge/Claude%20API-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-### 🤖 [AI-Driven Hiring Intelligence Tool](https://github.com/tison-io/AI-Driven-Hiring-Intelligence-Tool)
-An AI-powered recruitment tool that automates candidate evaluation and streamlines hiring workflows.  
-`TypeScript` `React` `Node.js` `AI Integration` `GitHub Actions`
-
-### ♻️ [Waste Vortex AI](https://github.com/GeoNjunge/Waste-vortex-AI)
-An AI-driven waste management solution focused on environmental sustainability and operational efficiency.  
-`JavaScript` `React` `Node.js` `Machine Learning`
-
----
-
-## 📜 Certifications
-
-- 🛡️ **Microsoft Certified: Security, Compliance & Identity Fundamentals** — SC-900 (2025)
-- 🔐 **Security Engineer Certification** — Cyber Shujaa (2024)
-- ₿ **Bitcoin Dada Certification**
-
----
 
 ## 📊 GitHub Stats
 
