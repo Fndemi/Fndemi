@@ -1,7 +1,7 @@
 # Hi there, I'm Florence Ndemi 👋
 
 🎓 BSc Information Technology — Dedan Kimathi University of Technology  
-💻 Full-Stack Developer | AI Integration | Cybersecurity Enthusiast  
+💻 Full-Stack Developer | AI Integration
 🌍 Based in Nairobi, Kenya  
 🚀 Building real-world web applications and AI-powered solutions  
 
